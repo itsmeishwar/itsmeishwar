@@ -35,7 +35,7 @@
 ###
 
 <div align="center">
-  <img src="https://count.getloli.com/@:itsmeishwar?theme=booru-helltaker&padding=3&scale=2&align=top&pixelated=0&darkmode=auto"  />
+  <img src="https://count.getloli.com/@:itsmeishwar?theme=booru-huggboo&padding=3&scale=2&align=top&pixelated=0&darkmode=auto"  />
 </div>
 
 ###
